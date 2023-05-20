@@ -90,6 +90,10 @@
     color: rgb(82, 71, 71);
 }
 
+.overlay3>h3 {
+    display: none;
+}
+
 .list-blocks {
     background-color: rgb(247, 247, 247);
     margin-top: 0px;
