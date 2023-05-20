@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;300&family=Montserrat:wght@100&family=Ubuntu+Mono&family=Wix+Madefor+Display&display=swap');
+
+
 .App {
   text-align: center;
 }
@@ -35,4 +38,53 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@media screen and (max-width: 480px){
+  .App {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    justify-content: center;
+    align-self: center;
+    justify-self: center;
+  }
+
+  .profile-photo {
+    /* border: 5px solid red; */
+    width: 350px;
+    margin-top: -500px;
+    margin-left: 25%;
+    margin-right: 50%;
+    margin-bottom: 0px;
+  }
+
+ .quote {
+  display: none;
+ }
+
+ .author {
+  display: none;
+ }
+
+ .services {
+  margin-top: -550px;
+  font-family: 'IBM Plex Sans', sans-serif;
+ }
+
+ .image-woman {
+  display: none;
+ }
+
+ .floating-whats {
+  display: none;
+ }
+
+
+
+
+  
 }

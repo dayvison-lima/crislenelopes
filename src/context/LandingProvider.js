@@ -1,19 +1,23 @@
-import React, { useMemo } from "react";
-import LandingContext from "./LandingContext";
+import React, { useMemo } from 'react';
+import PropTypes from 'prop-types';
+import LandingContext from './LandingContext';
 
-function LandingProvider({ children }){
+function LandingProvider({ children }) {
+  const values = useMemo(() => ({
 
-    const values = useMemo(() => ({
+  }), []);
 
-    }),[])
+  return (
+    <LandingContext.Provider
+      value={ values }
+    >
+      {children}
+    </LandingContext.Provider>
+  );
+}
 
-    return (
-        <LandingContext.Provider
-        value={ values }
-        >
-            {children}
-        </LandingContext.Provider>
-    )
-};
+LandingProvider.propTypes = {
+  children: PropTypes.object,
+}.isRequired;
 
 export default LandingProvider;
