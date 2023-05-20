@@ -13,7 +13,7 @@ function Header() {
           </a>
         </span>
         <span>
-          <a className="whats-header" href="https://api.whatsapp.com/send?phone=5584988060515&text=Olá,%20Crislene,%20gostaria%20de%20saber%20mais%20sobre%20as%20consultas.">
+          <a className="whats-header" href="https://api.whatsapp.com/send?phone=5584987060515&text=Olá,%20Crislene,%20gostaria%20de%20saber%20mais%20sobre%20as%20consultas.">
             +55 84 98706-0515 (WhatsApp)
           </a>
         </span>
@@ -21,7 +21,7 @@ function Header() {
       </div>
       <hr className="break-line" />
       <div className="header-header">
-        <a href="https://api.whatsapp.com/send?phone=5584988060515&text=Olá,%20Crislene,%20gostaria%20de%20saber%20mais%20sobre%20as%20consultas.">
+        <a href="https://api.whatsapp.com/send?phone=5584987060515&text=Olá,%20Crislene,%20gostaria%20de%20saber%20mais%20sobre%20as%20consultas.">
           <img
             className="header-logo"
             alt="header-logo"
