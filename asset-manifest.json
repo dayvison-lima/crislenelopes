@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//github.com/dayvison-lima/crislenelopes/static/css/main.f1e06fa4.css",
+    "main.js": "//github.com/dayvison-lima/crislenelopes/static/js/main.b9c4fe5f.js",
+    "static/js/787.d3de7be7.chunk.js": "//github.com/dayvison-lima/crislenelopes/static/js/787.d3de7be7.chunk.js",
+    "static/media/profile-photo.png": "//github.com/dayvison-lima/crislenelopes/static/media/profile-photo.e3c413d0aa7c7c3923e6.png",
+    "static/media/fundo-terapia6.jpg": "//github.com/dayvison-lima/crislenelopes/static/media/fundo-terapia6.9b404b1c00a4dbcba913.jpg",
+    "static/media/profileWhats.jpg": "//github.com/dayvison-lima/crislenelopes/static/media/profileWhats.027c3891aea1ec6aa5d3.jpg",
+    "static/media/backgroundservicos2.jpg": "//github.com/dayvison-lima/crislenelopes/static/media/backgroundservicos2.1728a559853fe8fdceb9.jpg",
+    "static/media/headerLogo4.png": "//github.com/dayvison-lima/crislenelopes/static/media/headerLogo4.98e44db9fbd25da6123f.png",
+    "index.html": "//github.com/dayvison-lima/crislenelopes/index.html",
+    "main.f1e06fa4.css.map": "//github.com/dayvison-lima/crislenelopes/static/css/main.f1e06fa4.css.map",
+    "main.b9c4fe5f.js.map": "//github.com/dayvison-lima/crislenelopes/static/js/main.b9c4fe5f.js.map",
+    "787.d3de7be7.chunk.js.map": "//github.com/dayvison-lima/crislenelopes/static/js/787.d3de7be7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1e06fa4.css",
+    "static/js/main.b9c4fe5f.js"
+  ]
+}
