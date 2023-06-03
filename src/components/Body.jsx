@@ -71,12 +71,15 @@ function Body() {
           Proin convallis faucibus velit. Curabitur pharetra lobortis faucibus. Vivamus scelerisque mattis feugiat. Pellentesque non turpis at nulla semper elementum. Nulla felis risus, aliquam in lacinia ut, porta ac mauris. Proin sed mollis metus, tincidunt rhoncus metus. Nam rutrum, tortor venenatis gravida auctor, metus ligula sodales urna, quis rutrum ipsum orci eu sapien. Curabitur placerat eget velit sit amet rutrum. Duis gravida efficitur arcu sit amet congue.
         </p>
         <div className="div-image-woman">
-          <img className="image-woman" src={ require('../images/backgroundservicos2.jpg') } />
-          <div className="overlay">
-            <h3>
-              Terapia particular (videoconferência)
-            </h3>
+          <div className="blockbox4">
 
+            <img className="image-woman" src={ require('../images/backgroundservicos2.jpg') } />
+            <div className="overlay">
+              <h3>
+                Terapia particular (videoconferência)
+              </h3>
+
+            </div>
           </div>
           <div className="list-blocks">
             <p className="list-header">
