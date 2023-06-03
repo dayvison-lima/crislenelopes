@@ -85,11 +85,10 @@
 }
 
 .overlay>h3 {
-    font-family: 'IBM Plex Sans', sans-serif;
-    position: absolute;
-    z-index: 2;
-    font-size: 3em;
-    color: rgb(82, 71, 71);
+    font-family: 'Lato', sans-serif;
+    color: #524747;
+    font-size: 4em;
+    letter-spacing: .2rem;
 }
 
 .overlay3>h3 {
@@ -246,6 +245,7 @@
      font-size: 1.8em;
      color: white;
      bottom: 50%;
+     position: absolute;
   }
 
   
