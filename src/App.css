@@ -44,7 +44,7 @@
 
   .center {
     margin: 0 auto;
-    border: 2px solid orange;
+    /* border: 2px solid orange; */
     max-width: 480px;
     display: flex;
     /* flex-direction: column; */
@@ -65,7 +65,7 @@
     justify-content: center;
     align-self: center;
     justify-self: center;
-    border: 1px solid green;
+    /* border: 1px solid green; */
     /* margin: 0 auto; */
   }
 
