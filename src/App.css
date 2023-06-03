@@ -41,25 +41,32 @@
 }
 
 @media screen and (max-width: 480px){
+
+  .center {
+    margin: 0 auto;
+  }
+
   .App {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    /* width: 100%; */
     align-items: center;
     justify-items: center;
     align-content: center;
     justify-content: center;
     align-self: center;
     justify-self: center;
+    border: 1px solid green;
+    /* margin: 0 auto; */
   }
 
   .profile-photo {
     /* border: 5px solid red; */
     width: 350px;
-    margin-top: -500px;
+    /* margin-top: -500px;
     margin-left: 25%;
     margin-right: 50%;
-    margin-bottom: 0px;
+    margin-bottom: 0px; */
   }
 
  .quote {
@@ -71,7 +78,7 @@
  }
 
  .services {
-  margin-top: -550px;
+  /* margin-top: -550px; */
   font-family: 'IBM Plex Sans', sans-serif;
  }
 

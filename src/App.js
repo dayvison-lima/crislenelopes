@@ -11,11 +11,15 @@ function App() {
   return (
     <div className="App">
       <LandingProvider>
-        <Header />
-        <BackgroundFixed />
-        <DescriptionBlock />
-        <Body />
-        <ContactButton />
+        <div className="center">
+          <Header />
+          <BackgroundFixed />
+          <DescriptionBlock />
+          <Body />
+
+          <ContactButton />
+
+        </div>
       </LandingProvider>
     </div>
   );

@@ -31,9 +31,9 @@ function Header() {
         </a>
         {/* <p className="header-title">Psicóloga Crislene Lopes</p> */}
 
-      </div>
-      <div className="whats-btn">
-        <WhatsappButton />
+        <div className="whats-btn">
+          <WhatsappButton />
+        </div>
       </div>
     </div>
   );
