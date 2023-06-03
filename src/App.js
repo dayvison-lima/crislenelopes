@@ -16,9 +16,7 @@ function App() {
           <BackgroundFixed />
           <DescriptionBlock />
           <Body />
-
           <ContactButton />
-
         </div>
       </LandingProvider>
     </div>
