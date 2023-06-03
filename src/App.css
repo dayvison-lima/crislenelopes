@@ -44,6 +44,15 @@
 
   .center {
     margin: 0 auto;
+    border: 2px solid orange;
+    max-width: 480px;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    justify-items: center;
   }
 
   .App {
@@ -74,6 +83,10 @@
  }
 
  .author {
+  display: none;
+ }
+
+ .description-block {
   display: none;
  }
 

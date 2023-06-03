@@ -20,3 +20,9 @@
     font-family: 'IBM Plex Sans', sans-serif;
     font-weight: 600;
 }
+
+@media screen and (max-width: 480px){
+    .description-block {
+        display: none;
+    }
+}
