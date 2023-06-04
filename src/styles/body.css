@@ -86,9 +86,10 @@
 
 .overlay>h3 {
     font-family: 'Lato', sans-serif;
-    color: #524747;
+    color: #ffffff;
     font-size: 4em;
     letter-spacing: .2rem;
+    text-shadow:1px 1px 1px #524747;
 }
 
 .overlay3>h3 {
@@ -177,8 +178,17 @@
 .agendar {
     text-decoration: none;
     text-transform: none;
-    color: rgb(121, 178, 186);
+    /* color: #44c767; */
 }
+
+.agendar2 {
+    color: #44c767;
+    text-shadow:0px 1px 0px #2f6627;
+}
+
+/* .agendar2:hover {
+		color: #5cbf2a;
+	} */
 
 .servicos-mobile {
     display: none;

@@ -105,7 +105,7 @@ function Body() {
           <img src={ require('../images/Web/icons8-whatsapp-office-l-120.png') } />
         </a>
         <a className="agendar" href="https://api.whatsapp.com/send?phone=5584987060515&text=Olá,%20Crislene,%20gostaria%20de%20saber%20mais%20sobre%20as%20consultas.">
-          <h2>
+          <h2 className="agendar2">
             Agendar
             <br />
             Consulta
