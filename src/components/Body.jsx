@@ -26,7 +26,7 @@ function Body() {
           </p>
 
         </div>
-        <img src={ require('../images/profile-photo.png') } className="profile-photo" />
+        <img src={ require('../images/profile-photo-min.png') } className="profile-photo" />
       </div>
       <div className="blockbox">
         <a href="https://api.whatsapp.com/send?phone=5584987060515&text=Olá,%20Crislene,%20gostaria%20de%20saber%20mais%20sobre%20as%20consultas.">

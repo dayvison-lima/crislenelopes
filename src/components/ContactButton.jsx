@@ -8,8 +8,8 @@ function ContactButton() {
         phoneNumber="5584987060515"
         accountName="Crislene Lopes"
         // eslint-disable-next-line global-require
-        avatar={ require('../images/profileWhats.jpg') }
-        statusMessage="Psicológa CRM-17/6365"
+        avatar={ require('../images/profile_whats.jpg') }
+        statusMessage="Psicológa CRP-17/6365"
         chatMessage="Olá, como posso ajudar?"
         placeholder=""
 
