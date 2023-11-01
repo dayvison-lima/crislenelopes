@@ -8,9 +8,8 @@ function BackgroundFixed() {
         <h1 className="background-title">
           Sou Crislene Lopes.
           <br />
-          Como posso ajudar?
+          Como posso te ajudar?
         </h1>
-
       </a>
     </div>
   );
